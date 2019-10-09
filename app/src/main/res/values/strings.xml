@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidWearList</string>
+    <string name="default_text">TextView</string>
+    <string name="lists">Lists</string>
+    <string name="dialogs">Dialogs</string>
+    <string name="progress">Progress</string>
+    <string name="controls">controls</string>
+    <string name="notifications">notifications</string>
+    <string name="accessibility">Accesibillty</string>
+</resources>
